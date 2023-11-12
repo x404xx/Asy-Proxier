@@ -1,0 +1,3 @@
+httpx==0.24.1
+httpx_socks==0.7.7
+user_agent==0.1.10

@@ -1,0 +1,532 @@
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/prxchk/proxy-list/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://www.proxy-list.download/api/v1/get?type=socks4 "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/proxylist-to/proxy-list/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/HyperBeats/proxy-list/main/socks4.txt "HTTP/1.1 404 Not Found"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/socks4/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/iptotal/free-proxy-list/master/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/zevtyardt/proxy-list/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks4/data.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/TylerAmesIsGay/proxy-list/main/socks4_proxies%20(1).txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/NotUnko/autoproxies/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/socks4_proxies.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:50 PM - INFO - HTTP Request: GET https://openproxylist.xyz/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:51 PM - INFO - HTTP Request: GET https://proxylist.live/nodes/socks4_1.php?page=1&showall=1 "HTTP/1.1 404 Not Found"
+12|11|2023 - 12:53:51 PM - INFO - HTTP Request: GET https://openproxy.space/list/socks4 "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:51 PM - INFO - HTTP Request: GET https://proxyspace.pro/socks4.txt "HTTP/1.1 200 OK"
+12|11|2023 - 12:53:55 PM - INFO - Found 19777 SOCKS4 proxies!
+12|11|2023 - 12:53:59 PM - INFO - Proxy has been limit to 500 for checking.
+12|11|2023 - 12:53:59 PM - INFO - Checker started! Concurrent=125, Timeout=10, Proxy_shuffle=True
+12|11|2023 - 12:54:01 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:01 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:01 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:01 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:01 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:02 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:02 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:02 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:02 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:02 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:02 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:04 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:04 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:04 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:04 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:04 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:05 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:05 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:05 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:05 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:06 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:07 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:07 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:07 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:08 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:10 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:11 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:12 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:13 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:13 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:13 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:13 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:13 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:13 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:13 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:13 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:14 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:14 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:14 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:14 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:14 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:14 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:15 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:15 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:15 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:15 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:15 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:15 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:15 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:15 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 403 Forbidden"
+12|11|2023 - 12:54:16 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:16 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:16 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:16 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:17 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:17 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:18 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:20 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:22 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:24 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:25 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:25 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:26 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:27 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:27 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:27 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:27 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:27 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 403 Forbidden"
+12|11|2023 - 12:54:27 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:28 PM - ERROR - Checking Exception: RemoteProtocolError
+12|11|2023 - 12:54:28 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:29 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:29 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:29 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:30 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:32 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:34 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:35 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:36 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:36 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:36 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:36 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:36 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:37 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:38 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:38 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:39 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:39 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:39 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:39 PM - INFO - HTTP Request: GET http://httpbin.org/ip "HTTP/1.1 200 OK"
+12|11|2023 - 12:54:39 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:40 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:42 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - ERROR - Checking Exception: ProxyTimeoutError
+12|11|2023 - 12:54:45 PM - INFO - Your live proxies have been saved in live_proxies/socks4-121123_1254PM.txt
