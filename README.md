@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/x404xx/Asy-Proxier/assets/114883816/e4dfd505-6037-44a1-ac33-5577ef785d74" width="300">
+<img src="assets/logo.png" width="300" height="auto">
 
 **AsyProxier** is an asynchronous tool that helps you grab proxies from various sources and check them instantly.
 
-<img src="https://github.com/x404xx/Asy-Proxier/assets/114883816/81a8f3e0-b10b-47df-b167-5f1e0b4be320" width="700" height="auto">
+<img src="assets/display.png" width="700" height="auto">
 
 </div>
 
@@ -21,7 +21,8 @@ pip install -r requirements.txt
 Running _**AsyProxier**_ using command-line ::
 
 ```
-usage: main.py [-h] [-cf CONFIG_FILE] [-cu CHECK_URL] [-cc CONCURRENT] -pc {HTTP,SOCKS4,SOCKS5} [-to TIMEOUT] [-ps] [-us]
+usage: main.py [-h] [-cf CONFIG_FILE] [-cu CHECK_URL] [-cc CONCURRENT] -pc
+                {HTTP,SOCKS4,SOCKS5} [-to TIMEOUT] [-wpt] [-ps] [-us]
 
 Proxy Scraper|Checker
 
@@ -37,8 +38,10 @@ options:
                         Proxy choice: HTTP, SOCKS4, SOCKS5
   -to TIMEOUT, --timeout TIMEOUT
                         Proxy timeout (Default: 10)
-  -ps, --proxy-shuffle  Proxy shuffle or randomize (Default: True)
-  -us, --use-semaphore  Semaphore usage (Default: True)
+  -wpt, --without-proxy-type
+                        Save proxies without their proxy type in the text file (Default: False)
+  -ps, --proxy-shuffle  Proxy shuffle or randomize (Default: False)
+  -us, --use-semaphore  Semaphore usage (Default: False)
 ```
 
 Command-line example ::
